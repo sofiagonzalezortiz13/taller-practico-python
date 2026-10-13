@@ -1,6 +1,3 @@
-
-# Taller practico: Retiro de dinero
-
 datos = []
 
 saldo = float(input("Ingrese el saldo de su cuenta: "))
